@@ -1,4 +1,4 @@
-# Scrapping Pokédex Pokémon
+# Scraping Pokédex Pokémon
 
 Ce projet effectue un scrapping du site [pokemondb.net](https://pokemondb.net) pour récupérer les informations et images des Pokémon dans des fichiers CSV.
 
