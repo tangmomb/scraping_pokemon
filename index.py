@@ -2,7 +2,6 @@ import shutil
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import re
 import os
 
 # Fonction pour extraire tous les noms de Pokémon et leurs liens exacts depuis la page nationale
