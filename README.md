@@ -9,3 +9,9 @@ Ce projet effectue un scrapping du site [pokemondb.net](https://pokemondb.net) p
 Usage :
 
 - Lancer le script Python `index.py` et suivre les instructions dans le terminal.
+
+<br>
+
+---
+
+![Exemple](images/1.jpg)
